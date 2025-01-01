@@ -1,3 +1,5 @@
+;Pgm to multiply 2-digit decimal numbers
+
 data segment
 	m1 db 13,10,"Enter first number (0-99):$"
 	m2 db 13,10,"Enter second number (0-99):$"
